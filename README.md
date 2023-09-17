@@ -1,6 +1,6 @@
 - Hey, people! Name's Alacris!
 - Aspiring to be an indie game dev!
-- Currently learning Java, HTML and CSS!
+- Currently learning Python, Java, HTML and CSS!
 - IG: @alacris.devs / Discord: Alacris#0001
 
 <!---
