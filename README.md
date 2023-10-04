@@ -1,7 +1,7 @@
 - Hey, people! Name's Alacris!
 - Aspiring to be an indie game dev!
 - Currently learning Python, Java, HTML and CSS!
-- IG: @alacris.devs / Discord: Alacris#0001
+- IG: @alacrisdevs / Discord: alacrisdevs
 
 <!---
 AlacrisDevs/AlacrisDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
